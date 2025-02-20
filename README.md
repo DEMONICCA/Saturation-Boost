@@ -1,8 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/bdfdc7b3-43de-432f-bdd7-7ff872460723)
 <div align="center">
-  If you like my work, please follow me/star my work on GitHub        
- 
-  You can also show your concern by donating below.
+  If you like my work, please follow me or star my work on GitHub
+  
+You can also show your concern by donating below.
 <div align="center">
  </div>
 <hr/>
