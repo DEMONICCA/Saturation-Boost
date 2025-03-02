@@ -1,6 +1,6 @@
 id=SATURATION
 name=Saturation Boost
-version=v1.4.0
+version=1.4.0
 versionCode=4
 author=@illumi
 description=This module increases panel saturation by up to 140%, giving your device a more vivid and vibrant color display. Suitable for users who want a more intense visual experience.
