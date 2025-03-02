@@ -1,7 +1,7 @@
 > ![Image](https://github.com/user-attachments/assets/ca440096-7a28-440c-bfae-1d24cb4b21e3)
 
 > [!NOTE]
-> DESCRIPTION 📝:
+> Description 📝:
 > - This module increases panel saturation by up to 140%, giving your device a more vivid and vibrant color display. Suitable for users who want a more intense visual experience..
 <hr/>
 
@@ -24,8 +24,13 @@
 > 4. Reboot the device after the installation is complete.
 <hr/>
 
+> [!WARNING]
+> Disclaimers 🛡️:
+> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
+<hr/>
+
 > [!CAUTION]
-> WARNING ☢️:
+> Warning ☢️:
 > - This module changes sensitive system settings. Make sure you understand the changes made before installing it.
 > - Use this module at your own risk. Misconfiguration may cause problems such as bootloop or system instability.
 > - Risk of Over-Saturation:  Potential color artifacts on AMOLED.
