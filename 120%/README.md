@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Description 📝:
-> - This module increases panel saturation by up to 120%, giving your device a more vivid and vibrant color display. Suitable for users who want a more intense visual experience..
+> - This module increases panel saturation by up to 120%, giving your device a more vivid and vibrant color display. Suitable for users who want a more intense visual experience.
 <hr/>
 
 > [!IMPORTANT]
