@@ -7,7 +7,7 @@
 > - Updated `customize` and `functions`.
 > - Fix code inside `service.sh`
 > - Added `service call surfaceFlinger` `1022 1015 1008 1033` to add wider coverage.
-> - Detects ervice call surfaceFlinger dynamically.
+> - Detects service call surfaceFlinger dynamically.
 > - Code optimization for `module.prop` and `notifications`.
 > - Saturation is still the same 110%.
 
